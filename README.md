@@ -13,7 +13,6 @@ Once in hand, right clicking within 5 blocks of a villager will upgrade the near
 
 ## Custom Recipes
 
-### <center> Trade Upgrade </center>
 <img  
 src="https://cdn.modrinth.com/data/cached_images/f614c0e007323e314de5ac46b3a273aa3009f18e.png"
 alt="Villager spawn egg recipe."
