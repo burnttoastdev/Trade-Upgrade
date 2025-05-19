@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bbb",
+    "beb",
+    "rmr"
+  ],
+  "key": {
+    "b": [
+      "minecraft:bread"
+    ],
+    "e": [
+      "minecraft:emerald"
+    ],
+    "r": [
+      "minecraft:rail"
+    ],
+    "m": [
+      "minecraft:minecart"
+    ]
+  },
+  "result": {
+    "id": "minecraft:villager_spawn_egg"
+  }
+}
