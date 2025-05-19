@@ -1,3 +1,8 @@
+# Trade Upgrade
+## Adds a new item to increase the max trade cap on villagers and a few other things to help you move around villagers.
+
+
+
 ## Features
 - Craftable recipe that gives a Trade Upgrade by using emerald blocks and a netherite upgrade smithing template.
 - Trade Upgrade increases the max trade cap of chosen villager.
