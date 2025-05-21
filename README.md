@@ -30,8 +30,8 @@ Once you have a Trade Upgrade in hand, right-clicking within 5 blocks of an elig
 
 Here are the custom recipes included in Trade Upgrade:
 
-<img src="https://cdn.modrinth.com/data/cached_images/8d41685ca98aaf2930af4cecce09fe84672e19b4.png" alt="Trade Upgrade recipe." width="300" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.modrinth.com/data/cached_images/f614c0e007323e314de5ac46b3a273aa3009f18e.png" alt="Villager spawn egg recipe." width="300" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.modrinth.com/data/cached_images/8d41685ca98aaf2930af4cecce09fe84672e19b4.png" alt="Trade Upgrade recipe." width="300" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.modrinth.com/data/cached_images/f614c0e007323e314de5ac46b3a273aa3009f18e.png" alt="Villager spawn egg recipe." width="300" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.modrinth.com/data/cached_images/b19a12f127fa86d71b0ec9e2467b3f8e1cdd58eb.png" alt="Wandering Trader spawn egg recipe." width="300" height="150">
 
 ## Find a Bug?
