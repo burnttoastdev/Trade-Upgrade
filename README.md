@@ -1,6 +1,6 @@
 # Trade Upgrade
 
-**Tired of the villager trade limit holding back your progress? Trade Upgrade offers a solution!** This data pack introduces a new late-game item that significantly increases the maximum trade limit of villagers, eliminating the tedious process of endlessly shuffling villagers. This project was my first full data pack, born out of the frustration of managing villager trades and a desire for a more streamlined experience. 
+**Tired of the villagers' trade limit holding back your progress? Trade Upgrade offers a solution!** This data pack introduces a new late-game item that significantly increases the maximum trade limit of villagers, eliminating the tedious process of endlessly shuffling villagers. This project was my first full data pack, born out of the frustration of managing villager trades and a desire for a more streamlined experience. 
 
 ## Key Features
 
@@ -13,7 +13,7 @@
 
 ## How to Install
 
-1.  Go to the [releases](https://github.com/burnttoastdev/Trade-Upgrade/releases) and choose which version you want (typically the latest).
+1.  Go to the releases and choose which version you want (typically the latest).
 2.  Decide if you want to download the pack as a pure data pack or packaged as a mod.
 3.  Click the corresponding link on the chosen release.
 4.  Download the chosen data pack (.zip file) or mod (.jar file) from Modrinth.
