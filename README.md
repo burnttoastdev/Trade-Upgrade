@@ -13,7 +13,7 @@
 
 ## How to Install
 
-1.  Go to the [releases](link-to-releases-here) and choose which version you want (typically the latest).
+1.  Go to the [releases](https://github.com/burnttoastdev/Trade-Upgrade/releases) and choose which version you want (typically the latest).
 2.  Decide if you want to download the pack as a pure data pack or packaged as a mod.
 3.  Click the corresponding link on the chosen release.
 4.  Download the chosen data pack (.zip file) or mod (.jar file) from Modrinth.
