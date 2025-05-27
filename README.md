@@ -36,7 +36,7 @@ Here are the custom recipes included in Trade Upgrade:
 
 ## Find a Bug?
 
-If you encounter any issues or have suggestions for improvements, please submit them using the "Issues" tab at the top of this page.
+If you encounter any issues or have suggestions for improvements, please submit them using the "Issues" tab at the top of the page.
 
 ## Like this Project?
 
