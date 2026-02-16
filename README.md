@@ -40,5 +40,4 @@ If you encounter any issues or have suggestions for improvements, please submit 
 
 ## Like this Project?
 
-If you're feeling generous and want to support my work, you can [buy me a coffee](https://buymeacoffee.com/burnttoastdev)     
-:) Thank you! 🧡
+If you're feeling generous and want to support my work, you can [buy me a coffee](https://buymeacoffee.com/burnttoastdev) :) Thank you! 🧡
