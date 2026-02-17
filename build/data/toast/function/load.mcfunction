@@ -1,1 +1,1 @@
-tellraw @a {"text": "The Trade Upgrade Datapack has been successfully loaded."}
+tellraw @a {"text": "The Trade Upgrade Datapack has been successfully loaded!"}
