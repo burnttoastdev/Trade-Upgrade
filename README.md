@@ -1,6 +1,6 @@
 # Trade Upgrade
 
-**Are you tired of the villagers' trade limit holding back your progress? Trade Upgrade offers a solution!** This data pack introduces a new late-game item that significantly increases the maximum trade limit of villagers, eliminating the tedious process of endlessly shuffling villagers. This project was my first full data pack, born out of the frustration of managing villager trades and a desire for a more streamlined experience.
+Are you **_tired_** of the villagers' trade limit holding back **your progress**? Trade Upgrade offers a solution! This data pack introduces a new late-game item that **significantly** increases the maximum trade limit of villagers, eliminating the _tedious_ process of endlessly shuffling villagers. This project was my first full data pack, born out of the frustration of managing villager trades and a desire for a more streamlined experience.
 
 ## Key Features
 
@@ -24,7 +24,7 @@
 
 Once you have a Trade Upgrade in hand, right-clicking within 5 blocks of an eligible villager will apply the upgrade to the one closest to you. Upgraded villagers will have their novice and apprentice trade maximums significantly increased.
 
-> Note: Novice villagers, baby villagers, and nitwits cannot be upgraded.
+> **Note**: Novice villagers, baby villagers, and nitwits cannot be upgraded.
 
 ## Custom Recipes
 <!-- markdownlint-disable-file MD033 -->
