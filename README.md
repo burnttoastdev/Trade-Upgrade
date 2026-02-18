@@ -7,7 +7,7 @@
 * Craft a Trade Upgrade using emerald blocks and a [Netherite Upgrade Template](https://minecraft.wiki/w/Netherite_Upgrade).
 * Use the Trade Upgrade on a villager to dramatically increase their max trade cap:
   * Novice trade cap -> 40
- * Apprentice trade cap -> 30
+  * Apprentice trade cap -> 30
 * Includes recipes for Villager and Wandering Trader spawn eggs, providing a more convenient way to obtain villagers without relying on lengthy transportation.
 * Features helpful in-game error messages to prevent accidental upgrades on ineligible villagers (e.g., baby villagers or nitwits).
 
@@ -27,14 +27,18 @@ Once you have a Trade Upgrade in hand, right-clicking within 5 blocks of an elig
 > Note: Novice villagers, baby villagers, and nitwits cannot be upgraded.
 
 ## Custom Recipes
+<!-- markdownlint-disable-file MD033 -->
 
-Here are the custom recipes included in Trade Upgrade:
+<div align="center">
 
-![Trade Upgrade recipe.](https://cdn.modrinth.com/data/cached_images/8d41685ca98aaf2930af4cecce09fe84672e19b4.png)
+### Trade Upgrade Recipe
 
-![Villager spawn egg recipe.](https://cdn.modrinth.com/data/cached_images/f614c0e007323e314de5ac46b3a273aa3009f18e.png)
+  ![Trade Upgrade recipe](https://cdn.modrinth.com/data/cached_images/8d41685ca98aaf2930af4cecce09fe84672e19b4.png)
+</div>
 
-![Wandering Trader spawn egg recipe.](https://cdn.modrinth.com/data/cached_images/b19a12f127fa86d71b0ec9e2467b3f8e1cdd58eb.png)
+| Villager Spawn Egg | Wandering Trader Spawn Egg |
+| - | - |
+| ![Villager spawn egg](https://cdn.modrinth.com/data/cached_images/f614c0e007323e314de5ac46b3a273aa3009f18e.png) | ![Wandering T. spawn egg](https://cdn.modrinth.com/data/cached_images/b19a12f127fa86d71b0ec9e2467b3f8e1cdd58eb.png) |
 
 ## Find a Bug?
 
