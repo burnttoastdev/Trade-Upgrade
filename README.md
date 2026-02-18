@@ -1,13 +1,13 @@
 # Trade Upgrade
 
-**Tired of the villagers' trade limit holding back your progress? Trade Upgrade offers a solution!** This data pack introduces a new late-game item that significantly increases the maximum trade limit of villagers, eliminating the tedious process of endlessly shuffling villagers. This project was my first full data pack, born out of the frustration of managing villager trades and a desire for a more streamlined experience.
+**Are you tired of the villagers' trade limit holding back your progress? Trade Upgrade offers a solution!** This data pack introduces a new late-game item that significantly increases the maximum trade limit of villagers, eliminating the tedious process of endlessly shuffling villagers. This project was my first full data pack, born out of the frustration of managing villager trades and a desire for a more streamlined experience.
 
 ## Key Features
 
-* Craft a Trade Upgrade using emerald blocks and a ![Netherite Upgrade Smithing Template](https://minecraft.wiki/w/Netherite_Upgrade).
+* Craft a Trade Upgrade using emerald blocks and a [Netherite Upgrade Template](https://minecraft.wiki/w/Netherite_Upgrade).
 * Use the Trade Upgrade on a villager to dramatically increase their max trade cap:
   * Novice trade cap -> 40
-  * Apprentice trade cap -> 30
+ * Apprentice trade cap -> 30
 * Includes recipes for Villager and Wandering Trader spawn eggs, providing a more convenient way to obtain villagers without relying on lengthy transportation.
 * Features helpful in-game error messages to prevent accidental upgrades on ineligible villagers (e.g., baby villagers or nitwits).
 
