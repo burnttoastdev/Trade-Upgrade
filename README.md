@@ -11,7 +11,7 @@ Are you **_tired_** of the villagers' trade limit holding back **your progress**
 * Includes recipes for Villager and Wandering Trader spawn eggs, providing a more convenient way to obtain villagers without relying on lengthy transportation.
 * Features helpful in-game error messages to prevent accidental upgrades on ineligible villagers (e.g., baby villagers or nitwits).
 
-## How to Install
+## How to Install ll
 
 1. Go to the releases and choose which version you want (typically the latest).
 2. Decide if you want to download the pack as a pure data pack or packaged as a mod.

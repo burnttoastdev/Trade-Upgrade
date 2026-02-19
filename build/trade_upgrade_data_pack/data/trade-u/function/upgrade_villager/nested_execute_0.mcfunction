@@ -5,5 +5,5 @@ data modify entity @e[type=villager, limit=1, sort=nearest, distance=..5, tag=!u
 data modify entity @e[type=villager, limit=1, sort=nearest, distance=..5, tag=!upgraded] Offers.Recipes[3].maxUses set value 30
 execute at @e[type=villager, limit=1, sort=nearest, distance=..5, tag=!upgraded] run particle minecraft:totem_of_undying ~ ~1 ~ 0.2 0.2 0.2 0.5 300
 playsound minecraft:block.anvil.use player @p
-tellraw @p {"text": "\u2726 Villager upgraded!", "color": "green"}
+tellraw @p {text: "\u2726 Villager upgraded!", color: "green"}
 data merge entity @e[type=villager, limit=1, sort=nearest, distance=..5, tag=!upgraded] {Tags: ["upgraded"]}

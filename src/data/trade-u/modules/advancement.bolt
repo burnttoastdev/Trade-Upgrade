@@ -1,5 +1,5 @@
-{
-  "criteria": {
+advancement trade-u:ate_upgrade {
+    "criteria": {
     "requirement": {
       "trigger": "minecraft:using_item",
       "conditions": {

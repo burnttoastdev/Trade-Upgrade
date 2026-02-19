@@ -9,7 +9,7 @@
         "pack_format": 71
     },
     "pipeline": ["mecha"],
-    "output": "temp_build",
+    "output": "build",
     "meta": {
         "bolt": {
             "entrypoint": ["trade-u:main"]
