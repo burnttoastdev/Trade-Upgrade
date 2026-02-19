@@ -1,0 +1,9 @@
+import trade-u:crafts as crafts
+
+
+
+append function_tag minecraft:tick {
+    "values": [
+        "trade-u:load"
+    ]
+}

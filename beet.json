@@ -1,0 +1,18 @@
+{
+    "name": "Trade Upgrade",
+    "description": "Made by burnttoastdev!",
+    "require": [
+        "bolt"
+    ],
+    "data_pack": {
+        "load": ["src"],
+        "pack_format": 71
+    },
+    "pipeline": ["mecha"],
+    "output": "temp_build",
+    "meta": {
+        "bolt": {
+            "entrypoint": ["trade-u:main"]
+        }
+    }
+}

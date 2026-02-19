@@ -1,4 +1,61 @@
-{
+recipe trade-u:villager_egg {
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bbb",
+    "beb",
+    "rmr"
+  ],
+  "key": {
+    "b": [
+      "minecraft:bread"
+    ],
+    "e": [
+      "minecraft:emerald"
+    ],
+    "r": [
+      "minecraft:rail"
+    ],
+    "m": [
+      "minecraft:minecart"
+    ]
+  },
+  "result": {
+    "id": "minecraft:villager_spawn_egg"
+  }
+}
+
+recipe trade-u:wandering_trader_egg {
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "L L",
+    "ped",
+    "bbb"
+  ],
+  "key": {
+    "b": [
+      "minecraft:bread"
+    ],
+    "e": [
+      "minecraft:emerald"
+    ],
+    "L": [
+      "minecraft:lead"
+    ],
+    "p": [
+      "minecraft:poppy"
+    ],
+    "d": [
+      "minecraft:dandelion"
+    ]
+  },
+  "result": {
+    "id": "minecraft:wandering_trader_spawn_egg"
+  }
+}
+
+recipe trade-u:trade_upgrade {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
